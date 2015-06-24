@@ -24,4 +24,12 @@ Gemfile.lock
 doc/
 .yardoc/
 _site/
+=======
+_site
+.sass-cache
+Gemfile.lock
+coverage/
+.yardoc/
+doc/
+pkg/
 TODO.md

@@ -466,3 +466,14 @@ the [YouTube Analytics API](https://developers.google.com/youtube/analytics).
 If you find that a method is missing, fork the project, add the missing code,
 write the appropriate tests, then submit a pull request, and it will gladly
 be merged!
+=======
+Yt · The reliable YouTube API Ruby client
+=========================================
+
+The `gh_pages` branch contains the source code for the GitHub Page published
+at [http://fullscreen.github.io/yt](http://fullscreen.github.io/yt).
+
+If you find any typo or want to suggest an improvement to the GitHub Page,
+please submit a pull request against this branch.
+
+To run locally, install [jekyll](http://jekyllrb.com), then type `jekyll serve --baseurl ""`.
