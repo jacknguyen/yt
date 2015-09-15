@@ -5,10 +5,10 @@ Yt helps you write apps that need to interact with YouTube.
 
 The **source code** is available on [GitHub](https://github.com/Fullscreen/yt) and the **documentation** on [RubyDoc](http://www.rubydoc.info/gems/yt/frames).
 
-[![Build Status](http://img.shields.io/travis/Fullscreen/yt/master.svg)](https://travis-ci.org/Fullscreen/yt)
+[![Build Status](https://travis-ci.org/Fullscreen/yt.svg?branch=master)](https://travis-ci.org/Fullscreen/yt)
 [![Coverage Status](http://img.shields.io/coveralls/Fullscreen/yt/master.svg)](https://coveralls.io/r/Fullscreen/yt)
 [![Dependency Status](http://img.shields.io/gemnasium/Fullscreen/yt.svg)](https://gemnasium.com/Fullscreen/yt)
-[![Code Climate](http://img.shields.io/codeclimate/github/Fullscreen/yt.svg)](https://codeclimate.com/github/Fullscreen/yt)
+[![Code Climate](https://codeclimate.com/github/Fullscreen/yt/badges/gpa.svg)](https://codeclimate.com/github/Fullscreen/yt)
 [![Online docs](http://img.shields.io/badge/docs-✓-green.svg)](http://www.rubydoc.info/gems/yt/frames)
 [![Gem Version](http://img.shields.io/gem/v/yt.svg)](http://rubygems.org/gems/yt)
 
