@@ -154,6 +154,18 @@ module Yt
       has_report :annotation_clicks, Integer
 
       # @macro report_by_day_and_state
+      has_report :annotation_clickable_impressions, Integer
+
+      # @macro report_by_day_and_state
+      has_report :annotation_closable_impressions, Integer
+
+      # @macro report_by_day_and_state
+      has_report :annotation_closes, Integer
+
+      # @macro report_by_day_and_state
+      has_report :annotation_impressions, Integer
+
+      # @macro report_by_day_and_state
       has_report :annotation_click_through_rate, Float
 
       # @macro report_by_day_and_state
@@ -189,7 +201,7 @@ module Yt
       # @macro report_by_day_and_country
       has_report :playback_based_cpm, Float
 
-      # @macro report_by_day_and_country
+      # @macro report_by_channel_dimensions
       has_report :red_views, Integer
 
       # @macro report_by_day_and_country
@@ -199,7 +211,19 @@ module Yt
       has_report :estimated_ad_revenue, Float
 
       # @macro report_by_day_and_country
+      has_report :gross_revenue, Float
+
+      # @macro report_by_day_and_country
       has_report :estimated_red_partner_revenue, Float
+
+      # @macro report_by_day_and_country
+      has_report :relative_video_performance, Float
+
+      # @macro report_by_day_and_country
+      has_report :playlist_starts, Integer
+
+      # @macro report_by_day_and_country
+      has_report :views_per_playlist_start, Integer
 
     ### STATISTICS ###
 
