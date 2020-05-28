@@ -192,6 +192,15 @@ module Yt
       # @macro report_by_day_and_country
       has_report :red_views, Integer
 
+      # @macro report_by_day_and_country
+      has_report :cpm, Float
+
+      # @macro report_by_day_and_country
+      has_report :estimated_ad_revenue, Float
+
+      # @macro report_by_day_and_country
+      has_report :estimated_red_partner_revenue, Float
+
     ### STATISTICS ###
 
       has_one :statistics_set
