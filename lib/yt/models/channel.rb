@@ -189,6 +189,9 @@ module Yt
       # @macro report_by_day_and_country
       has_report :playback_based_cpm, Float
 
+      # @macro report_by_day_and_country
+      has_report :red_views, Integer
+
     ### STATISTICS ###
 
       has_one :statistics_set
