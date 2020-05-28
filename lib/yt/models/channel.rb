@@ -217,9 +217,6 @@ module Yt
       has_report :estimated_red_partner_revenue, Float
 
       # @macro report_by_day_and_country
-      has_report :relative_video_performance, Float
-
-      # @macro report_by_day_and_country
       has_report :playlist_starts, Integer
 
       # @macro report_by_day_and_country
